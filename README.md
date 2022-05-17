@@ -30,5 +30,5 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t1mmyt1m&layout=compact"/>
