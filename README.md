@@ -13,7 +13,7 @@
 <details>
     <summary><b> Contact me! 📞 </b></summary>
   <br>
-   <a href="https://discord.com/channels/@me/871397193544781936" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+   <a href="https://discord.id/" target="_blank"><img src="https://img.shields.io/badge/Discord:%20871397193544781936-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
    <a href="https://leechaechae2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </details>
 
