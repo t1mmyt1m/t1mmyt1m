@@ -7,13 +7,13 @@
     <summary><b> Blog ✏ </b></summary>
   <br>
    <a href="https://velog.io/@t1mmy_t1m" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-   <a href="https://www.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-263238?style=flat-square&logo=Directus&logoColor=white"/></a>
+   <a href="https://t1mmyt1m.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-263238?style=flat-square&logo=Directus&logoColor=white"/></a>
 </details>
 
 <details>
     <summary><b> Contact me! 📞 </b></summary>
   <br>
-   <a href="https://velog.io/@t1mmy_t1m" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
+   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
    <a href="https://leechaechae2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </details>
 
