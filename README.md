@@ -1,7 +1,7 @@
 ## Hi there as you can see, I'm super N00B 👋
 
 ### t1mmyt1m
-> studying cyber sec.. interested in crypto, forensics, rev
+> studying cyber sec.. interested in crypto
 
 <details>
     <summary><b> Blog ✏ </b></summary>
