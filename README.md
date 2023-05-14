@@ -1,7 +1,7 @@
 ## Hi there as you can see, I'm super N00B 👋
 
 ### t1mmyt1m
-> studying cyber sec.. interested in crypto
+> interested in crypto
 
 <details>
     <summary><b> Blog ✏ </b></summary>
@@ -14,7 +14,6 @@
     <summary><b> Contact me! 📞 </b></summary>
   <br>
    <a href="https://discord.id/" target="_blank"><img src="https://img.shields.io/badge/Discord%20id:%20871397193544781936-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
-   <a href="mailto:leechaechae2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=leechaechae2006@gmail.com"/></a>
 </details>
 
 
