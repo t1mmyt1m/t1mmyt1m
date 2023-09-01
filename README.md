@@ -1,4 +1,4 @@
-## Hi there as you can see, I'm super N00B 👋
+## 👋
 
 ### t1mmyt1m
 
